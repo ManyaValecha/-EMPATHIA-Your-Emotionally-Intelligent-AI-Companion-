@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Wellness App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <section class="welcome-screen">
+            <h1>Empower your mind, elevate your life.</h1>
+            <p>Let us help you prioritize your mental health with mindfulness and self-care.</p>
+            <button onclick="navigateTo('home')">Get Started →</button>
+        </section>
+
+        <section class="home-screen" id="home">
+            <h2>Hello, Alia</h2>
+            <p>How are you feeling today?</p>
+            <div class="emoji-rating">
+                <span>😃</span>
+                <span>🙂</span>
+                <span>😐</span>
+                <span>☹️</span>
+                <span>😢</span>
+            </div>
+            <h3>What do you want to work on today?</h3>
+            <div class="categories">
+                <div class="category" onclick="navigateTo('meditation')">
+                    <img src="meditation.png" alt="Meditation">
+                    <p>Meditation</p>
+                </div>
+                <div class="category">
+                    <img src="depression.png" alt="Depression">
+                    <p>Depression</p>
+                </div>
+                <div class="category">
+                    <img src="anxiety.png" alt="Anxiety">
+                    <p>Anxiety</p>
+                </div>
+                <div class="category">
+                    <img src="stress.png" alt="Stress">
+                    <p>Stress</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="meditation-screen" id="meditation">
+            <h2>Enhance your meditation experience</h2>
+            <p>From gentle piano melodies to ethereal textures, experience mindfulness like never before.</p>
+            <div class="course">
+                <img src="meditation-course.png" alt="Meditation Course">
+                <p>Self-knowledge and realization</p>
+                <p>8 courses | 30 min</p>
+                <button onclick="playAudio()">▶ Play</button>
+            </div>
+        </section>
+
+        <nav class="bottom-nav">
+            <button onclick="navigateTo('home')">🏠 Home</button>
+            <button onclick="navigateTo('music')">🎵 Music</button>
+            <button onclick="navigateTo('chat')">💬 Chat</button>
+        </nav>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
