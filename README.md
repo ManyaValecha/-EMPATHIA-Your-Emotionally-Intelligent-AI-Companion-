@@ -1,4 +1,6 @@
 "EMPATHIA – Your Emotionally Intelligent AI Companion"
+
+
 In a world brimming with digital noise and emotional isolation, Empathia is a compassionate AI-driven companion designed to truly understand how you feel, not just what you say. It’s a Mental Wellness Ecosystem that blends advanced Sentiment Analysis, Conversational AI, and Computer Vision-based Emotion Detection — all wrapped in a soothing, human-centered UI that makes mental health care approachable and personalized.
 Emotion-State Classification, and Context-Aware NLP Suggestions Engine.
 
