@@ -17,8 +17,10 @@ Detects facial expressions (joy, sadness, anger, fear, surprise, etc.).
 
 
 
-Dynamically adapts chatbot tone and UI recommend![WhatsApp Image 2025-03-10 at 6 27 42 PM](https://github.com/user-attachments/assets/42a6b3b9-a019-45dd-b6a5-5b7ea6707f35)
-ations in real time.
+Dynamically adapts chatbot tone and UI recommend ations in real time.
+
+![WhatsApp Image 2025-03-10 at 6 27 42 PM](https://github.com/user-attachments/assets/42a6b3b9-a019-45dd-b6a5-5b7ea6707f35)
+
 
 
 📲 3. Mental Wellness UI (Designed with Care)
