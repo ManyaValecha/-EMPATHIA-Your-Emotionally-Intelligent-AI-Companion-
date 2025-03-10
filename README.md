@@ -13,7 +13,8 @@ Suggests self-care routines, motivational prompts, meditation guides, and even j
 Detects facial expressions (joy, sadness, anger, fear, surprise, etc.).
 
 ![WhatsApp Image 2025-03-10 at 6 16 28 PM](https://github.com/user-attachments/assets/4508d3e6-9c47-4426-9c25-a9f2077def3b)
-![WhatsApp Image 2025-03-10 at 6 16 28 PM-3](https://github.com/user-attachments/assets/33bc5e4e-ad93-42ba-b6a2-890d7397e483)
+![WhatsApp Image 2025-03-10 at 6 16 27 PM](https://github.com/user-attachments/assets/fd3bc48b-76a0-4b8f-9808-fc7a49b7b9d4)
+
 
 
 Dynamically adapts chatbot tone and UI recommend![WhatsApp Image 2025-03-10 at 6 27 42 PM](https://github.com/user-attachments/assets/42a6b3b9-a019-45dd-b6a5-5b7ea6707f35)
