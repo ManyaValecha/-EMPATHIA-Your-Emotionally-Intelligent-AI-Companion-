@@ -11,13 +11,14 @@ Suggests self-care routines, motivational prompts, meditation guides, and even j
 
 👁 2. Real-Time Emotion Detection using OpenCV
 Detects facial expressions (joy, sadness, anger, fear, surprise, etc.).
-![WhatsApp Image 2025-03-10 at 6 16 27 PM](https://github.com/user-attachments/assets/2c85d239-b1b4-49f0-8d81-172e20e20889)
+
 ![WhatsApp Image 2025-03-10 at 6 16 28 PM](https://github.com/user-attachments/assets/4508d3e6-9c47-4426-9c25-a9f2077def3b)
 ![WhatsApp Image 2025-03-10 at 6 16 28 PM-3](https://github.com/user-attachments/assets/33bc5e4e-ad93-42ba-b6a2-890d7397e483)
 
 
-Dynamically adapts chatbot tone and UI recommendations in real time.
-<img width="1710" alt="Screenshot 2025-03-10 at 6 26 26 PM" src="https://github.com/user-attachments/assets/ea72441e-b6e0-4fc0-a52e-3b1bf9c66c06" />
+Dynamically adapts chatbot tone and UI recommend![WhatsApp Image 2025-03-10 at 6 27 42 PM](https://github.com/user-attachments/assets/42a6b3b9-a019-45dd-b6a5-5b7ea6707f35)
+ations in real time.
+
 
 📲 3. Mental Wellness UI (Designed with Care)
 Vibrant, intuitive, and comforting interface (as shown in screenshots).
